@@ -1,8 +1,8 @@
 ## ERLSlib for STM32
-Ця бібліотека призначена для з'днання ELRS модуля з STM. В данному проекті я використовую STM32Nucleo-F334R8. Базовий код ви можете знайти в main.c, або нижче:
+Ця бібліотека призначена для з'днання ELRS модуля з STM. В данному проекті я використовую STM32Nucleo-F334R8. Також було протестовано на платі STM32F3DISCOVERY. Базовий код ви можете знайти в main.c, або нижче:
 
 ## ERLSlib for STM32
-This library is designed to connect an ELRS module to an STM microcontroller. In this project, I am using the STM32Nucleo-F334R8. The base code can be found in main.c, or below:
+This library is designed to connect an ELRS module to an STM microcontroller. In this project, I am using the STM32Nucleo-F334R8. It was also tested on the STM32F3DISCOVERY board. The base code can be found in main.c, or below:
   
 ```c
 /* USER CODE BEGIN Includes */
